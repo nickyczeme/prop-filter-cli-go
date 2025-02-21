@@ -1,0 +1,142 @@
+[
+    {
+      "squareFootage": 1500,
+      "lighting": "high",
+      "price": 300000,
+      "rooms": 3,
+      "bathrooms": 2,
+      "location": [40.7128, -74.006],
+      "description": "Beautiful apartment in the heart of NYC.",
+      "ammenities": {
+        "yard": false,
+        "garage": true,
+        "pool": false
+      }
+    },
+    {
+      "squareFootage": 2000,
+      "lighting": "medium",
+      "price": 450000,
+      "rooms": 5,
+      "bathrooms": 3,
+      "location": [34.0522, -118.2437],
+      "description": "Spacious house in Los Angeles with a modern touch.",
+      "ammenities": {
+        "yard": true,
+        "garage": true,
+        "pool": true
+      }
+    },
+    {
+      "squareFootage": 1000,
+      "lighting": "low",
+      "price": 200000,
+      "rooms": 2,
+      "bathrooms": 1,
+      "location": [41.8781, -87.6298],
+      "description": "Cozy condo in Chicago with a small yard.",
+      "ammenities": {
+        "yard": true,
+        "garage": false,
+        "pool": false
+      }
+    },
+    {
+      "squareFootage": 1200,
+      "lighting": "high",
+      "price": 250000,
+      "rooms": 4,
+      "bathrooms": 2,
+      "location": [29.7604, -95.3698],
+      "description": "Affordable townhouse in Houston.",
+      "ammenities": {
+        "yard": false,
+        "garage": true,
+        "pool": true
+      }
+    },
+    {
+      "squareFootage": 2500,
+      "lighting": "medium",
+      "price": 600000,
+      "rooms": 6,
+      "bathrooms": 4,
+      "location": [33.4484, -112.074],
+      "description": "Luxury villa in Phoenix with stunning views.",
+      "ammenities": {
+        "yard": true,
+        "garage": true,
+        "pool": true
+      }
+    },
+    {
+      "squareFootage": 900,
+      "lighting": "low",
+      "price": 150000,
+      "rooms": 1,
+      "bathrooms": 1,
+      "location": [47.6062, -122.3321],
+      "description": "Small studio in Seattle, perfect for singles.",
+      "ammenities": {
+        "yard": false,
+        "garage": false,
+        "pool": false
+      }
+    },
+    {
+      "squareFootage": 1800,
+      "lighting": "high",
+      "price": 400000,
+      "rooms": 4,
+      "bathrooms": 3,
+      "location": [39.7392, -104.9903],
+      "description": "Family-friendly home in Denver.",
+      "ammenities": {
+        "yard": true,
+        "garage": true,
+        "pool": false
+      }
+    },
+    {
+      "squareFootage": 2200,
+      "lighting": "medium",
+      "price": 500000,
+      "rooms": 5,
+      "bathrooms": 3,
+      "location": [32.7767, -96.797],
+      "description": "Modern house in Dallas with a spacious yard.",
+      "ammenities": {
+        "yard": true,
+        "garage": true,
+        "pool": false
+      }
+    },
+    {
+      "squareFootage": 1100,
+      "lighting": "low",
+      "price": 180000,
+      "rooms": 2,
+      "bathrooms": 2,
+      "location": [38.9072, -77.0369],
+      "description": "Charming home in Washington, DC.",
+      "ammenities": {
+        "yard": true,
+        "garage": false,
+        "pool": false
+      }
+    },
+    {
+      "squareFootage": 1400,
+      "lighting": "high",
+      "price": 320000,
+      "rooms": 3,
+      "bathrooms": 2,
+      "location": [37.7749, -122.4194],
+      "description": "Stylish apartment in San Francisco.",
+      "ammenities": {
+        "yard": false,
+        "garage": true,
+        "pool": false
+      }
+    }
+]

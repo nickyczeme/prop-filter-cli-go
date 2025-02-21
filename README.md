@@ -17,8 +17,7 @@ This CLI was developed using GO and adheres to clean coding principles, with a f
   - The CLI reads property data dynamically from a properties.json file.
 
 ## Requirements
-- Node.js v16.0.0 or higher
-- TypeScript v4.0.0 or higher
+- **Go** (version 1.16 or higher)
 
 ## Setup 
 1. Clone the Repository

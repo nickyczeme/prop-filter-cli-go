@@ -29,12 +29,11 @@ This CLI was developed using GO and adheres to clean coding principles, with a f
    ```
 2. Install Dependencies
    ```
-  go get
-   ```
+   go get
    ```
 3. Run the CLI
    ```
-  go run main.go
+   go run main.go
    ```
 
 ## Usage 
